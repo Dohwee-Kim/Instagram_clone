@@ -14,9 +14,6 @@ $python3 manage.py runserver
 ```
 ## How to run Pytest for Testing (TODO)
 There are two test sets:
-```commandline
-test_flask.py 
-test_model.py
-```
-**test_flask** : Validates main Flask methods and endpoints.
+
+**test_functions** : Validates main methods and endpoints.
 **test_model** : Validates trained model returns appropriate results. Manually picked column values from iris.csv dataset. 
