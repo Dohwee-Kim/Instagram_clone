@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ## How to run MLServer
 ```commandline
-$python3 main.py
+$python3 manage.py runserver
 ```
 ## How to run Pytest for Testing (TODO)
 There are two test sets:
